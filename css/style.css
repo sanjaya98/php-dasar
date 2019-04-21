@@ -1,0 +1,31 @@
+body {
+	font: 16px/28px arial, sans-serif;
+	/*Tempat cari background : http://subtlepatterns.com*/
+	background-color: #d71348;
+	color: #333;
+}
+
+.top-bar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 50px;
+	background-color: lightskyblue;
+	border-bottom: 4px solid salmon;
+	z-index: 9999;
+}
+
+.container {
+  width: 300px;
+	margin: 100px auto;
+	background: #11e6be;
+	border: 3px solid #186fda;
+	position: relative;
+	/*border-top: 5px solid salmon;*/
+	}
+}
+
+.judul h1 {
+  text-align: center;
+}
