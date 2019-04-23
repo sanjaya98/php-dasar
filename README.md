@@ -1,3 +1,3 @@
 # php-dasar
 Belajar pemrograman php
-- Pertama kali belajar php
+- Dasar-dasar pemrogrman php
