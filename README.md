@@ -1,3 +1,3 @@
 # php-dasar
-Belajar pemrograman PHP KU
+Belajar pemrograman PHP
 - Dasar-dasar pemrogrman php
